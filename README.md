@@ -1,7 +1,7 @@
 # [AI Makerspace](https://github.com/DigitalProductschool/AI-Makerspace) 
 ## We support rapid prototyping of user-centered AI applications. 🤝
 
-The AI Makerspace is an open-source community-building initiative led by [Afsaneh Asaei](https://www.linkedin.com/in/dr-afsaneh-asaei/). The purpose was for the alumni of the [Digital Product School (DPS)](https://digitalproductschool.io/) to provide mentorship support in cutting-edge AI development. We would like to acknowledge the alumni of the Digital Product School who played a pivotal role in its advancement and for their contributions and engagement in the growth of their thriving DPS family.
+The AI Makerspace is an open-source community-building initiative led by [Afsaneh Asaei](https://www.linkedin.com/in/dr-afsaneh-asaei/). The purpose was for the alumni of the [Digital Product School (DPS)](https://digitalproductschool.io/) to provide mentorship support in cutting-edge AI development. We would like to acknowledge the DPS alumni who played a pivotal role in its advancement and for their contributions and engagement in the growth of their thriving DPS family.
 
 Advances in innovation of AI tools and technologies enable us to solve problems faster, easier, and more effectively. As the technologies grow in complexity and diversity, we experience a growing need for guiding innovation teams through rapid prototyping and user-centred development. 
 
