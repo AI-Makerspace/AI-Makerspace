@@ -71,5 +71,5 @@ In addition, we are on an exciting journey to develop scalable coaching solution
 Enjoy & Rock!
 
 ### Acknowledgments 
-Historically, AI Makerspace was initiated in January 2022 by [Afsaneh Asaei](https://www.linkedin.com/in/dr-afsaneh-asaei/) to create an AI Engineering community. Through this framework, the alumni of the [Digital Product School (DPS)](https://digitalproductschool.io/) contributed to mentorship support in cutting-edge AI development. We would like to acknowledge the DPS alumni who played a pivotal role in its advancement for their contributions and dedication to the growth of their thriving DPS family.
+Historically, AI Makerspace was initiated in January 2022 by [Afsaneh Asaei](https://www.linkedin.com/in/dr-afsaneh-asaei/) to create an AI Engineering community. Through this framework, the alumni of the Digital Product School (DPS) of UnternehmerTUM contributed to mentorship support in cutting-edge AI development. We would like to acknowledge the DPS alumni who played a pivotal role in its advancement for their contributions and dedication to the growth of their thriving DPS family.
 
