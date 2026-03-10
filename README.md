@@ -1,14 +1,9 @@
 # [AI Makerspace](https://github.com/DigitalProductschool/AI-Makerspace) 
 ## We support rapid prototyping of user-centered AI applications. 🤝
 
-### WHAT
-The AI Makerspace is an open-source community-building initiative led by [Afsaneh Asaei](https://www.linkedin.com/in/dr-afsaneh-asaei/). The purpose was for the alumni of the [Digital Product School (DPS)](https://digitalproductschool.io/) to provide mentorship support in cutting-edge AI development. We would like to acknowledge the DPS alumni who played a pivotal role in its advancement for their contributions and dedication to the growth of their thriving DPS family.
-
-
-### HOW
 Advances in innovation of AI tools and technologies enable us to solve problems faster, easier, and more effectively. As the technologies grow in complexity and diversity, we experience a growing need for guiding innovation teams through rapid prototyping and user-centred development. 
 
-The code templates and use case examples can guide development of AI applications. It is a support for cross-functional innovation teams throughout their journey in AI Design Thinking, Lean AI Engineering, Explainable AI (XAI), Responsible and Ethical AI, as well as User Experience (UX) of machine learning products.
+The code templates and use case examples provided in this repository are intended to guide development of AI applications. It is a support for cross-functional innovation teams throughout their journey in AI Design Thinking, Lean AI Engineering, Explainable AI (XAI), Responsible and Ethical AI, as well as User Experience (UX) of machine learning products.
 
 In addition, we are on an exciting journey to develop scalable coaching solutions through our 🚀 [Agentic AI Coaching project](https://github.com/DigitalProductschool/AgenticAICoach) 🚀, and we warmly invite you to contribute and be a part of this initiative.
 
@@ -74,3 +69,7 @@ In addition, we are on an exciting journey to develop scalable coaching solution
 📫 For any questions and if you are interested in receiving our exclusive community offers, fill out this [application form](https://forms.gle/2Yh1DNZyR97f5w4q6).
 
 Enjoy & Rock!
+
+### Acknowledgments 
+Historically, AI Makerspace was initiated in January 2022 by [Afsaneh Asaei](https://www.linkedin.com/in/dr-afsaneh-asaei/) to create an AI Engineering community. Through this framework, the alumni of the [Digital Product School (DPS)](https://digitalproductschool.io/) contributed to mentorship support in cutting-edge AI development. We would like to acknowledge the DPS alumni who played a pivotal role in its advancement for their contributions and dedication to the growth of their thriving DPS family.
+
