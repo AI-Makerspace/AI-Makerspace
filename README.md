@@ -1,7 +1,7 @@
 # [AI Makerspace](https://github.com/DigitalProductschool/AI-Makerspace) 
-## We support rapid prototyping of user-centered AI applications. 🤝
+## We support rapid prototyping of scalable user-centered AI applications. 🤝
 
-Advances in innovation of AI tools and technologies enable us to solve problems faster, easier, and more effectively. As the technologies grow in complexity and diversity, we experience a growing need for guiding innovation teams through rapid prototyping and user-centred development. 
+Advances in innovation of AI tools and technologies enable us to solve problems faster, easier, and more effectively. As the technologies grow in complexity and diversity, we experience a growing need for guiding innovation teams through rapid prototyping, scaling and user-centred development. 
 
 The code templates and use case examples provided in this repository are intended to guide development of AI applications. It is a support for cross-functional innovation teams throughout their journey in AI Design Thinking, Lean AI Engineering, Explainable AI (XAI), Responsible and Ethical AI, as well as User Experience (UX) of machine learning products.
 
