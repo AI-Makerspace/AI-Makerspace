@@ -71,5 +71,20 @@ In addition, we are on an exciting journey to develop scalable coaching solution
 Enjoy & Rock!
 
 ### Acknowledgments 
-Historically, AI Makerspace was initiated in January 2022 by [Afsaneh Asaei](https://www.linkedin.com/in/dr-afsaneh-asaei/) to create an AI Engineering community. Through this framework, the alumni of the Digital Product School (DPS) of UnternehmerTUM contributed to mentorship support in cutting-edge AI development. We would like to acknowledge the DPS alumni who played a pivotal role in its advancement for their contributions and dedication to the growth of their thriving DPS family.
+AI Makerspace is an initiave by [Afsaneh Asaei](https://www.linkedin.com/in/dr-afsaneh-asaei/) dedicated to empowering a **user-centered AI Engineering community**. Our goal is to leverage the expertise of the **Digital Product School (DPS)** alumni from **UnternehmerTUM**. These experienced professionals contribute through mentorship and support in the development of cutting-edge, user-centric AI products.
 
+We would like to extend our deepest gratitude to the DPS alumni who played a pivotal role in the advancement of this initiative. Their contributions and dedication have been vital to the growth of our thriving DPS family:
+
+* [Devansh Srivastav](https://www.linkedin.com/in/devanshsrivastav/)
+* [Mahmoud Fazeli](https://www.linkedin.com/in/mahmoud-fazeli-034654103/)
+* [Diksha Shrivastava](https://www.linkedin.com/in/diksha-shrivastava13/)
+* [Mann Acharya](https://www.linkedin.com/in/mann-acharya/)
+* [Ali](https://www.linkedin.com/in/dr-afsaneh-asaei/) 
+* [Sudhanshu Kumar](https://www.linkedin.com/in/sudhanshublaze/)
+* [Tanisha Sharma](https://www.linkedin.com/in/tanisha-sharma07/)
+* [Pranjal Goyal](https://www.linkedin.com/in/pranjal7852/)
+
+---
+
+### 🤝 Join Us
+We invite **ALL** human-centered AI developers to share their use cases and development workflows. Let's build the future of AI together!
