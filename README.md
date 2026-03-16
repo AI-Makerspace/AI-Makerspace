@@ -79,7 +79,7 @@ We would like to extend our deepest gratitude to the DPS alumni who played a piv
 * [Mahmoud Fazeli](https://www.linkedin.com/in/mahmoud-fazeli-034654103/)
 * [Diksha Shrivastava](https://www.linkedin.com/in/diksha-shrivastava13/)
 * [Mann Acharya](https://www.linkedin.com/in/mann-acharya/)
-* [Ali](https://www.linkedin.com/in/dr-afsaneh-asaei/) 
+* [Ali Hussainia](https://github.com/alihussainia) 
 * [Sudhanshu Kumar](https://www.linkedin.com/in/sudhanshublaze/)
 * [Tanisha Sharma](https://www.linkedin.com/in/tanisha-sharma07/)
 * [Pranjal Goyal](https://www.linkedin.com/in/pranjal7852/)
